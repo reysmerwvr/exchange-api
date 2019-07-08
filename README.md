@@ -59,7 +59,11 @@ Run the following command to run startup seeds.
 ```js
 adonis seed
 ```
-After run seeds, use one user's emails seeded in database as credentials to log in to application. e.g. { "email": "bo@suavdeg.gw", "password": "12345678" }
+After run seeds, use one user's emails seeded in database as credentials to log in to application. e.g.
+
+```json
+{ "email": "bo@suavdeg.gw", "password": "12345678" }
+```
 
 ### Run
 
