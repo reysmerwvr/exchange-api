@@ -12,8 +12,8 @@
     "adonisjs",
     "adonis-app"
   ],
-  "author": "",
-  "license": "UNLICENSED",
+  "author": "Reysmer Valle",
+  "license": "ISC",
   "private": true,
   "dependencies": {
     "@adonisjs/ace": "^5.0.8",
